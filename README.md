@@ -15,8 +15,9 @@
 - 📫 How to reach me **giamprtone1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/agiamportone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/agiamportone" height="30" width="40" /></a>
+<a href="https://www.researchgate.net/profile/Ariel-Lujan-Giamportone" target="blank"><img align="center" src="https://www.svgrepo.com/show/349490/researchgate.svg" alt="https://www.researchgate.net/profile/Ariel-Lujan-Giamportone" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
