@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Data Analysis or Data Science Projects in Maritime Technology, Supply Chain Management, Port and Logistics Development, Oceanography, Fisheries, and Aquaculture**
 
-- 🤝 I’m looking for help with **Competitive Intelligence, Technological Surveillance, Research, Development, and Innovation in Businesses and Organizations, Elevating them to the Next Level**
+- 🤝 I’m experienced in **Competitive Intelligence, Technological Surveillance, Research, Development, and Innovation in Businesses and Organizations, Elevating them to the Next Level**
 
 - 💬 Ask me about **Data, Science, Technology, Development, Innovation and more.**
 
