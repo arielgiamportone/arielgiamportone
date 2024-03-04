@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Analysis and Data Science** at [UpgradeHub](https://www.upgrade-hub.com/)
 
-- 👯 I’m looking to collaborate on **Data Analysis or Data Science Projects in Maritime Technology, Supply Chain Management, Port and Logistics Development, Oceanography, Fisheries, and Aquaculture**
+- 👯 I’m eager to engage in collaborative ventures focusing on **Data Analysis** or **Data Science Projects** across a spectrum of dynamic sectors, including Maritime Technology, Supply Chain Management, Port and Logistics Development, Oceanography, Fisheries, and Aquaculture. My passion lies in leveraging **data-driven insights** to drive innovation, optimize operations, and tackle challenges within these industries. With a strong background in data analytics and a deep understanding of the complexities inherent in maritime and related fields, I am well-positioned to contribute effectively to projects that aim to enhance efficiency, sustainability, and profitability. I am enthusiastic about the opportunity to apply my expertise and collaborate with teams dedicated to advancing these crucial domains.
 
 - 🤝 I’m experienced in **Competitive Intelligence, Technological Surveillance, Research, Development, and Innovation in Businesses and Organizations, Elevating them to the Next Level**
 
