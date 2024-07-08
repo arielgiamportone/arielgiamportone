@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Research, Development, and Innovation Projects with the Applied Chemistry to Environment, Food, and Sustainable Development Group](https://qa3ds-frtdf.tech/)
 
-- 🌱 I’m currently learning **Data Analysis and Data Science** at [UpgradeHub](https://www.upgrade-hub.com/)
+- 🌱 I’m currently applying and improving **Data Analysis, Data Science & Generative AI** for Science, Technology, Engineering, Mathematichs, Supplay Chain, Research, Development and innovation.
 
 - 👯 I’m eager to engage in collaborative ventures focusing on **Data Analysis** or **Data Science Projects** across a spectrum of dynamic sectors, including Maritime Technology, Supply Chain Management, Port and Logistics Development, Oceanography, Fisheries, and Aquaculture. My passion lies in leveraging **data-driven insights** to drive innovation, optimize operations, and tackle challenges within these industries. With a strong background in data analytics and a deep understanding of the complexities inherent in maritime and related fields, I am well-positioned to contribute effectively to projects that aim to enhance efficiency, sustainability, and profitability. I am enthusiastic about the opportunity to apply my expertise and collaborate with teams dedicated to advancing these crucial domains.
 
