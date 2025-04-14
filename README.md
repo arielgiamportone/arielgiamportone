@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ariel Lujan Giamportone</h1>
-<h3 align="center">Empowering Innovation: Bridging Engineering Expertise with Data Analytics Proficiency for Oceanic Advancements, CPG, Supplay Chain R&D+i</h3>
+<h3 align="center">Empowering Innovation: Bridging Engineering Expertise with Data Analytics and Data Science Proficiency for Oceanic Advancements, CPG, Supplay Chain R&D+i</h3>
 
 
 - 🔭 I’m currently working on [Research, Development, and Innovation Projects with the Applied Chemistry to Environment, Food, and Sustainable Development Group](https://qa3ds-frtdf.tech/)
