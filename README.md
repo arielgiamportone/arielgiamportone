@@ -20,7 +20,7 @@ Each project is a case study plus a clean-room reimplementation of its key patte
 
 | Project | What it shows | Stack |
 |---|---|---|
-| [field-inspections-dashboard](https://github.com/arielgiamportone/field-inspections-dashboard) | Incremental pipeline over a third-party API, static dashboard with role-based builds, automated reports, CI-gated data | Python · pandas · Plotly · Azure SWA · Entra ID · GitHub Actions |
+| [field-inspections-dashboard](https://github.com/arielgiamportone/field-inspections-dashboard) | Incremental pipeline over a third-party API, SSRF-guarded proxies, static dashboard with role-based builds, automated reports, CI-gated data | Python · pandas · Node.js · Azure SWA · Entra ID · GitHub Actions |
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
