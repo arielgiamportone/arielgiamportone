@@ -12,7 +12,15 @@
 
 - 💬 Ask me about **Data, Science, Technology, Development, Innovation and more.**
 
-- 📫 How to reach me **giamprtone1@gmail.com**
+- 📫 How to reach me **giamportone1@gmail.com**
+
+-## 💼 Selected work at Intervalor Data
+
+Each project is a case study plus a clean-room reimplementation of its key patterns. No client code or data.
+
+| Project | What it shows | Stack |
+|---|---|---|
+| [field-inspections-dashboard](https://github.com/arielgiamportone/field-inspections-dashboard) | Incremental pipeline over a third-party API, static dashboard with role-based builds, automated reports, CI-gated data | Python · pandas · Plotly · Azure SWA · Entra ID · GitHub Actions |
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
