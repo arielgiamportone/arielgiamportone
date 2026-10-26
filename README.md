@@ -21,6 +21,7 @@ Each project is a case study plus a clean-room reimplementation of its key patte
 | Project | What it shows | Stack |
 |---|---|---|
 | [field-inspections-dashboard](https://github.com/arielgiamportone/field-inspections-dashboard) | Incremental pipeline over a third-party API, SSRF-guarded proxies, static dashboard with role-based builds, automated reports, CI-gated data | Python · pandas · Node.js · Azure SWA · Entra ID · GitHub Actions |
+| [inspection-photo-archiver](https://github.com/arielgiamportone/inspection-photo-archiver) | 24/7 photo-evidence archiver: non-destructive ledger, move-proof links, config-driven projects | Python · pandas · openpyxl · watchdog · Tkinter |
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
